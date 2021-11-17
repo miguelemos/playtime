@@ -47,4 +47,4 @@ At last, the concept of this application was to merge the world of sports with t
 
 ***
 
-And that's it, hope you enjoyed this concept!
+And that's it, hope you enjoyed this concept, which was later integrated into <a href="https://www.aircourts.com/site/software_clubs">this company</a>.
